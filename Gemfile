@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -52,3 +52,5 @@ gem 'font-awesome-rails'
 gem 'simple_form'
 
 gem 'devise'
+
+gem 'auto_html', '~> 1.6'
